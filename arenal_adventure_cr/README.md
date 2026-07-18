@@ -75,9 +75,5 @@ Se agregaron imagenes de diferentes destinos del pais, hoteles y actividades tur
 
 La empresa cuenta actualmente con dos automoviles y un SUV para ofrecer el servicio de transporte privado. Por el momento no se cuenta con busetas.
 
-El numero de WhatsApp se puede configurar en el archivo `app/config/config.php`. Este debe escribirse incluyendo el código del país, pero sin espacios ni guiones.
-
-1. Ejecute `database/03_actualizar_contenido_turistico.sql`.
-2. El script conservará los usuarios y reemplazará destinos, hoteles, actividades y reservas de prueba.
 
 Las imágenes se cargan desde enlaces externos para mantener liviano el proyecto. El administrador puede cambiar cada URL desde los módulos CRUD.
