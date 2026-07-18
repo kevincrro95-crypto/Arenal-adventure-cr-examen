@@ -75,5 +75,3 @@ Se agregaron imagenes de diferentes destinos del pais, hoteles y actividades tur
 
 La empresa cuenta actualmente con dos automoviles y un SUV para ofrecer el servicio de transporte privado. Por el momento no se cuenta con busetas.
 
-
-Las imágenes se cargan desde enlaces externos para mantener liviano el proyecto. El administrador puede cambiar cada URL desde los módulos CRUD.
