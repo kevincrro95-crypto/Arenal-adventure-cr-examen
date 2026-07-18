@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" role="img" aria-labelledby="title desc">
+  <title id="title">Arenal Adventure CR</title>
+  <desc id="desc">Marca con un perezoso, una montaña y hojas tropicales</desc>
+  <rect width="320" height="90" rx="18" fill="#ffffff"/>
+  <g transform="translate(10 8)">
+    <path d="M8 67 L38 28 L58 50 L74 22 L104 67 Z" fill="#18563f"/>
+    <path d="M56 50 L74 22 L85 45" fill="none" stroke="#e6a93d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="43" cy="42" r="18" fill="#c9b18a"/>
+    <ellipse cx="43" cy="42" rx="13" ry="15" fill="#eadbc1"/>
+    <path d="M32 38 Q37 30 42 38" fill="none" stroke="#4d463d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M44 38 Q49 30 54 38" fill="none" stroke="#4d463d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M38 49 Q43 53 48 49" fill="none" stroke="#4d463d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M13 70 Q33 58 52 70" fill="none" stroke="#5d8b62" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="124" y="42" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#174f3a">Arenal Adventure</text>
+  <text x="125" y="65" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#b57a19">COSTA RICA</text>
+</svg>
